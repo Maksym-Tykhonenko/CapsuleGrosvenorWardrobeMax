@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "CaplGosvnorSourceWard/CapsleGrosWardobAssts/CapsuleGrosvenorWardrobeFonts/SFProText-Medium.ttf",
+      "sha1": "3b8df618cd23e83843b16a8a32de1ddc9de44df4"
+    },
+    {
+      "path": "CaplGosvnorSourceWard/CapsleGrosWardobAssts/CapsuleGrosvenorWardrobeFonts/Roboto-Medium.ttf",
+      "sha1": "fa5192203f85ddb667579e1bdf26f12098bb873b"
+    },
+    {
+      "path": "CaplGosvnorSourceWard/CapsleGrosWardobAssts/CapsuleGrosvenorWardrobeFonts/Roboto-Light.ttf",
+      "sha1": "318b44c0a32848f78bf11d4fbf3355d00647a796"
+    },
+    {
+      "path": "CaplGosvnorSourceWard/CapsleGrosWardobAssts/CapsuleGrosvenorWardrobeFonts/Cinzel-Black.ttf",
+      "sha1": "38ac576cc25bdb4aeba45ec9f79e6cfc9d5cb754"
+    },
+    {
+      "path": "CaplGosvnorSourceWard/CapsleGrosWardobAssts/CapsuleGrosvenorWardrobeFonts/Cinzel-Bold.ttf",
+      "sha1": "b88b6bb7c15bc9c8b1a049f40b6c716a5d3c0672"
+    },
+    {
+      "path": "CaplGosvnorSourceWard/CapsleGrosWardobAssts/CapsuleGrosvenorWardrobeFonts/SF-Pro-Display-Regular.otf",
+      "sha1": "e19df199e78d296e5b6491d4832a76756532ed43"
+    },
+    {
+      "path": "CaplGosvnorSourceWard/CapsleGrosWardobAssts/CapsuleGrosvenorWardrobeFonts/Roboto-Regular.ttf",
+      "sha1": "3bff51436aa7eb995d84cfc592cc63e1316bb400"
+    },
+    {
+      "path": "CaplGosvnorSourceWard/CapsleGrosWardobAssts/CapsuleGrosvenorWardrobeFonts/Manrope-SemiBold.ttf",
+      "sha1": "f7a023cd6c102b2ffa8bf729579552445970d62d"
+    },
+    {
+      "path": "CaplGosvnorSourceWard/CapsleGrosWardobAssts/CapsuleGrosvenorWardrobeFonts/SF-Pro-Display-Medium.otf",
+      "sha1": "a5f5e08dd38cac2f857fb7510f7e92a2399b6f5c"
+    },
+    {
+      "path": "CaplGosvnorSourceWard/CapsleGrosWardobAssts/CapsuleGrosvenorWardrobeFonts/SFProText-Semibold.ttf",
+      "sha1": "9560ae412d73c7c9af72333db50464b4e597b0f9"
+    },
+    {
+      "path": "CaplGosvnorSourceWard/CapsleGrosWardobAssts/CapsuleGrosvenorWardrobeFonts/SFProText-Regular.ttf",
+      "sha1": "b4893462f2289df6978f9462a63db9e64bcc9342"
+    },
+    {
+      "path": "CaplGosvnorSourceWard/CapsleGrosWardobAssts/CapsuleGrosvenorWardrobeFonts/Cinzel-Regular.ttf",
+      "sha1": "e69b593cf3181656bb3634477f0ceb0089846645"
+    },
+    {
+      "path": "CaplGosvnorSourceWard/CapsleGrosWardobAssts/CapsuleGrosvenorWardrobeFonts/Manrope-Regular.ttf",
+      "sha1": "3f36e4904a42d23273ac346047c1b6bcf067ccfc"
+    },
+    {
+      "path": "CaplGosvnorSourceWard/CapsleGrosWardobAssts/CapsuleGrosvenorWardrobeFonts/Roboto-SemiBold.ttf",
+      "sha1": "9ca139684fe902c8310dd82991648376ac9838db"
+    },
+    {
+      "path": "CaplGosvnorSourceWard/CapsleGrosWardobAssts/CapsuleGrosvenorWardrobeFonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    }
+  ]
+}
